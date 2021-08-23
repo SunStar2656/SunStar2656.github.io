@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "해와별 개발자"
 title_separator          : "&#124;"
 subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
-name                     : "정성연"
+name                     : "SunStar2656"
 description              : "다양한 개발을 공부하는 블로그"
 url                      : "SunStar2656.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SunStar2656"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
