@@ -8,8 +8,6 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
-  #- title: "Sunny Blog"
-  #url: https://m.blog.naver.com/alsl2514
   #- title: "Year"
   #url: /years/
   
