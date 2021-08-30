@@ -1,11 +1,15 @@
 # main links
 main:
+  - title: "Sunny 블로그 방문하기"
+    url: https://m.blog.naver.com/alsl2514
+  - title: "About"
+    url: /about/
   - title: "Categories"
-  url: /categories/
+    url: /categories/
   - title: "Tag"
-  url: /tags/
-  - title: "Sunny Blog"
-  url: https://m.blog.naver.com/alsl2514
+    url: /tags/
+  #- title: "Sunny Blog"
+  #url: https://m.blog.naver.com/alsl2514
   #- title: "Year"
   #url: /years/
   
