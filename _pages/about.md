@@ -1,5 +1,5 @@
 ---
-title: "나에 대해서"
+title: "About"
 permalink: /about/
 layout: single
 ---
