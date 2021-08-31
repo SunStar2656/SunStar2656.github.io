@@ -17,16 +17,16 @@ layout: single
 ## 경력
 
 + 회사 재직중 (2018.02.01 ~ )
-- COM Driver UI 변경 및 기능 개선 (C# -> WPF)
-* Configuration
-* Message Define
-* Simulator
-- SECS/GEM Driver Configuration Tool 개발
-- PLC 통합 드라이버 Configuration Tool 개발
-- PLC 통합 드라이버, SECS/GEM Packing Configuration Tool 개발
-- ECS 개발 지원 (설비 시뮬레이터 및 테스트 진행)
-- MCS 개발 지원 (설비 시뮬레이터 및 테스트 진행)
-- CIM 프로그램 유지보수
+ - COM Driver UI 변경 및 기능 개선 (C# -> WPF)
+  * Configuration
+  * Message Define
+  * Simulator
+ - SECS/GEM Driver Configuration Tool 개발
+ - PLC 통합 드라이버 Configuration Tool 개발
+ - PLC 통합 드라이버, SECS/GEM Packing Configuration Tool 개발
+ - ECS 개발 지원 (설비 시뮬레이터 및 테스트 진행)
+ - MCS 개발 지원 (설비 시뮬레이터 및 테스트 진행)
+ - CIM 프로그램 유지보수
 
 ## 자격
 
