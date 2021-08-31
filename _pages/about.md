@@ -16,7 +16,7 @@ layout: single
 
 ## 경력
 
-+ 회사 재직중 (2018.02.01 ~ )
++ 회사 연구소 재직중 (2018.02.01 ~ )
     - COM Driver UI 변경 및 기능 개선 (C# -> WPF)
         * Configuration
         * Message Define
