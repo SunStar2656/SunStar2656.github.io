@@ -1,9 +1,9 @@
 ---
 title: "C# 공부 정리"
-permalink: /categories/C#/
+permalink: /categories/CSharp/
 layout: category
 author_profile: true
-taxonomy: C#
+taxonomy: CSharp
 ---
 
 C# 공부 정리모음입니다.
