@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "C#"
-    url: /categories/C#/
+    url: /categories/CSharp/
   - title: "WPF"
     url: /categories/WPF/
   - title: "Pattern"
