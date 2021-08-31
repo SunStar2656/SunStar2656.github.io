@@ -18,9 +18,9 @@ layout: single
 
 + 회사 재직중 (2018.02.01 ~ )
 - COM Driver UI 변경 및 기능 개선 (C# -> WPF)
-* Convifguration
-* Message Define Tool
-* SImulator
+* Configuration
+* Message Define
+* Simulator
 - SECS/GEM Driver Configuration Tool 개발
 - PLC 통합 드라이버 Configuration Tool 개발
 - PLC 통합 드라이버, SECS/GEM Packing Configuration Tool 개발
